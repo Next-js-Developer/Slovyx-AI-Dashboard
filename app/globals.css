@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #F5F6FA;
+  color: #10131F;
+}
+
+/* Signature "signal tile" hover lift used on the insights mosaic */
+.signal-tile {
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+.signal-tile:hover {
+  transform: translateY(-2px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .signal-tile {
+    transition: none;
+  }
+  .signal-tile:hover {
+    transform: none;
+  }
+}
