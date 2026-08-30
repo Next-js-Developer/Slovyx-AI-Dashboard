@@ -56,3 +56,4 @@ lib/
 - Colors: Indigo (primary), Teal (positive), Amber (attention), Coral (urgent) — category-coded taake Billing/Technical/Shipping/Complaint visually distinct hon.
 - Fonts: Space Grotesk (display), Inter (body), JetBrains Mono (data/metrics).
 - Insights tab mein clustering ko generic bar chart ki jagah "signal tiles" (proportional mosaic) se dikhaya hai — tile ka size cluster size ke mutabiq hai.
+<img width="1347" height="646" alt="slovyx" src="https://github.com/user-attachments/assets/7bc60c2c-1193-48fb-a677-4fedae2563d5" />
